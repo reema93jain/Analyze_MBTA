@@ -18,7 +18,7 @@ Bus_id y1869
    -Bus starting in morning takes less time compared to evening. Factors affecting traffic flow is commuters, office traffic, dinning, grocery shopping etc.  
 
 All other buses   
-   -On an average it takes around 40 to 50 minutes for a bus to complete route 1. Bus_id'y1873' took lowest 23 minutes & bus_id'y1863' took highest 67 minutes on an average
+   -On an average it takes around 40 to 50 minutes for a bus to complete route 1. Bus_id'y1873' took lowest 23 minutes & bus_id'y1863' took highest 67 minutes on an average   
    -This can be due to number of factors:   
        a. Bus timings i.e. y1863 running only at peak traffic hours & y1873 running at low traffic hours   
        b. Speed of the bus     
